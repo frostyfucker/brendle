@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "App v0.0.2",
+  "description": "Danes Hacked Hotel Brendle App",
+  "prompt": ""
+}
